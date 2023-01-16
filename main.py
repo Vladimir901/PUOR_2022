@@ -9,6 +9,8 @@ def print_fio(surname, name, otchestvo):
     print(f'{surname} {name} {otchestvo}')  # Press Ctrl+F8 to toggle the breakpoint.
 у = 4
 
+ext = 'h'
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_fio('Иванов', "Иван", "Иванович")

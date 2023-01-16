@@ -7,7 +7,7 @@
 def print_fio(surname, name, otchestvo):
     # Use a breakpoint in the code line below to debug your script.
     print(f'{surname} {name} {otchestvo}')  # Press Ctrl+F8 to toggle the breakpoint.
-
+у = 4
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
